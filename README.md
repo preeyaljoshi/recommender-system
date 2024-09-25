@@ -46,10 +46,4 @@ The system employs collaborative filtering to analyze user ratings and determine
 - Ability to view popular or trending movies
 - Easy integration with other systems or platforms
 
-## Installation
-To set up the Movie Recommender System locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/movie-recommender.git
-   cd movie-recommender
